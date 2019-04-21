@@ -1,4 +1,4 @@
-# [veda-egypt.com/](http://veda-egypt.com/)
+# [veda-egypt.com](http://veda-egypt.com/)
 Veda is offering unique, authentic and private Nile cruises with organic food, green energy and a warm hearted crew.
 
 ### Owner: 
