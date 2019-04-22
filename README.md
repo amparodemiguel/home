@@ -5,7 +5,9 @@ Veda is offering unique, authentic and private Nile cruises with organic food, g
 * [Amparo De Miguel](https://www.linkedin.com/in/amparodemiguel/)
 
 ### Team:
-* TBD
+* Isabelle Peeters
+* Amparo de Miguel
+* Anton Yemelianenko
 
 ### Website:
 
@@ -26,7 +28,7 @@ https://freeflowpages.com/s/veda/
 https://docs.grid.tf/veda-egypt
 
 ### Google Drive
-TBD
+https://drive.google.com/drive/folders/0B_dXq0dA11-sQW9Qc09MWjlDQ0k?usp=sharing
 
 ## Repos
 
